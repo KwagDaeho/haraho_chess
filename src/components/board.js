@@ -1,6 +1,6 @@
 import React from "react";
 
-function board() {
+function Board() {
   let posX = 0;
   let posY = 0;
   for (let i = 0; i < 10; i++) {
@@ -12,4 +12,4 @@ function board() {
   }
 }
 
-export default board;
+export default Board;

@@ -1,6 +1,6 @@
 import react from "react";
 
-function Gimul() {
+function Pieces() {
   let pawn;
   let king;
   let queen;
@@ -9,4 +9,4 @@ function Gimul() {
   let rook;
 }
 
-export default Gimul;
+export default Pieces;
